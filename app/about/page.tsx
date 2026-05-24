@@ -13,10 +13,10 @@ export default function AboutPage() {
               At Toasty Toesies, we believe that comfort starts from the ground up. Our premium wool socks are crafted with care using only the finest materials sourced from sustainable farms.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Each pair is designed to provide maximum warmth, breathability, and durability. Whether you&apos;re lounging at home, hitting the trails, or running a marathon, we have the perfect sock for every occasion.
+              Each pair is designed to provide maximum warmth, breathability, and durability. Whether you're lounging at home, hitting the trails, or running a marathon, we have the perfect sock for every occasion.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Our commitment to quality means your feet will stay toasty and cozy, no matter the weather. Join thousands of happy customers who have discovered the joy of truly comfortable socks.
+              Our commitment to quality means your feet will stay toasty and cozy, no matter the weather. Join thousands of happy customers who have discovered the joy of the truly comfortable socks.
             </p>
             <Button asChild className="bg-primary hover:bg-primary/90 text-primary-foreground">
               <Link href="/">
