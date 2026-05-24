@@ -6,9 +6,9 @@ const reviews = [
     name: "Sarah M.",
     rating: 5,
     date: "November 28, 2024",
-    title: "Best socks I&apos;ve ever owned!",
-    content: "These wool socks are incredible. My feet have never been warmer during winter. I&apos;ve already ordered three more pairs!",
-    product: "The Ultimate Winter Woolie",
+    title: "Best socks I've ever owned!",
+    content: "These wool socks are incredible. My feet have never been warmer during winter. I've already ordered three more pairs!",
+    product: "The Snocks",
   },
   {
     id: 2,
