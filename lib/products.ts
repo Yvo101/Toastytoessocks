@@ -13,16 +13,17 @@ export const products: Product[] = [
   },
   {
     id: 2,
-    name: "Classic Ankle Comfort",
+    name: "Socsation",
     price: 8.99,
     image: "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=400&h=400&fit=crop",
-    category: "Ankle Socks",
-    description: "Lightweight and breathable ankle socks perfect for everyday wear. Features cushioned heel and toe for extra comfort.",
+    category: "Crew Socks",
+    description: "Socsation crew socks are all about making a stylish statement without sacrificing comfort. They hit that perfect mid-calf height, offering a secure and comfortable fit that pairs well with a wide range of outfits, from casual jeans to your favorite athleisure wear.
+",
     rating: 4,
     reviews: 89,
   },
   {
-    id: 3,
+    id: 3, 
     name: "Thigh-High Warmers",
     price: 16.99,
     image: "https://images.unsplash.com/photo-1631541909061-71e349d1f203?w=400&h=400&fit=crop",
