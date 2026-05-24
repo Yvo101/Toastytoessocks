@@ -23,7 +23,7 @@ export const products: Product[] = [
     reviews: 89,
   },
   {
-    id: 3,
+    id: 3, 
     name: "Thigh-High Warmers",
     price: 16.99,
     image: "https://images.unsplash.com/photo-1631541909061-71e349d1f203?w=400&h=400&fit=crop",
