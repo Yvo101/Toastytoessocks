@@ -3,11 +3,11 @@ import { Product } from "./cart-context"
 export const products: Product[] = [
   {
     id: 1,
-    name: "The Ultimate Winter Woolie",
+    name: "The Snocks",
     price: 11.99,
     image: "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=400&h=400&fit=crop",
     category: "Cozy Socks",
-    description: "Say goodbye to cold feet! Our signature wool socks are made with super-soft wool to keep you warm all winter. Perfect for lounging or snowy adventures.",
+    description: "These Snocks are designed for ultimate everyday comfort, like a gentle hug for your feet. They provide that perfect balance of softness and support, ensuring your feet feel happy all day long.",
     rating: 5,
     reviews: 128,
   },
