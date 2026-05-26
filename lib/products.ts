@@ -25,7 +25,7 @@ export const products: Product[] = [
     id: 3,
     name: "Cozy Cloud",
     price: 16.99,
-    image: "https://images.unsplash.com/photo-1579170053380-58064b2dee67?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?w=400&h=400&fit=crop",
     category: "Crew Socks",
     description: "Made with the plushest materials, they offer a unique level of softness and warmth, making them ideal for those moments.",
     rating: 5,
