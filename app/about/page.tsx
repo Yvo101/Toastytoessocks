@@ -10,7 +10,7 @@ export default function AboutPage() {
           <div className="space-y-6">
             <h1 className="text-4xl md:text-5xl font-serif">About Our Wool</h1>
             <p className="text-muted-foreground leading-relaxed">
-              At Toasty Toesies, we believe that comfort starts from the ground up. Our premium wool socks are crafted with care using only the finest materials sourced from sustainable farms.
+              At Toasty Toes Socks, we believe that comfort starts from the ground up. Our premium wool socks are crafted with care using only the finest materials sourced from sustainable farms.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               Each pair is designed to provide maximum warmth, breathability, and durability. Whether you&apos;re lounging at home, hitting the trails, or running a marathon, we have the perfect sock for every occasion.
