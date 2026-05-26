@@ -17,7 +17,7 @@ export default function Home() {
                 Stay Cozy.
               </h1>
               <p className="text-muted-foreground text-lg max-w-md text-pretty leading-relaxed">
-                Say goodbye to cold feet! Our SnugSocks are made with super-soft wool to keep you warm all winter/rainy season. Perfect for lounging or snowy adventures.
+                Say goodbye to cold feet! Our Socks are made with super-soft wool to keep you warm all winter/rainy season. Perfect for lounging or snowy adventures.
               </p>
               <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
                 <Link href="/shop">
@@ -43,7 +43,7 @@ export default function Home() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-serif mb-4">Our Mission</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-lg leading-relaxed">
-            At Toasty Toesies, we believe everyone deserves warm, comfortable feet. 
+            At Toasty Toes Socks, we believe everyone deserves warm, comfortable feet. 
             We craft premium wool socks that combine timeless quality with modern comfort.
           </p>
         </div>
@@ -195,7 +195,7 @@ export default function Home() {
           </div>
           <div className="border-t border-border pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground">
-              2024 Toasty Toesies. All rights reserved.
+              2026 Toasty Toes Sock Co. All rights reserved.
             </p>
             <div className="flex gap-6">
               <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
