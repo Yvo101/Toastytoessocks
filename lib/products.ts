@@ -15,7 +15,7 @@ export const products: Product[] = [
     id: 2,
     name: "Socsation",
     price: 8.99,
-    image: https://kommodo.ai/i/5JPi7VUCtqEr6ERqpQ4v",
+    image: "https://kommodo.ai/i/5JPi7VUCtqEr6ERqpQ4v",
     category: "Crew Socks",
     description: "Socsation crew socks are all about making a stylish statement without sacrificing comfort. They hit that perfect mid-calf height, offering a secure and comfortable fit that pairs well with a wide range of outfits, from casual jeans to your favorite athleisure wear.",
     rating: 4,
